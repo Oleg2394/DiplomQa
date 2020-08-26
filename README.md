@@ -34,9 +34,9 @@
 ## Настройка тестируемого приложения
 Необходимо отредактировать файл application.properties:
 
-Вписать IP адрес или URL по которому доступен Docker в параметрах: spring.credit-gate.url, spring.payment-gate.url, spring.datasource.url.
-При прохождении тестов на MySQL в параметре spring.datasource.url необходимо написать jdbc:mysql: и порт 3306.
-При прохождении тестов на PostgerSQL в параметре spring.datasource.url необходимо написать jdbc:postgresql: и порт 5432.
+1. Вписать IP адрес или URL по которому доступен Docker в параметрах: spring.credit-gate.url, spring.payment-gate.url, spring.datasource.url.
+1. При прохождении тестов на MySQL в параметре spring.datasource.url необходимо написать jdbc:mysql: и порт 3306.
+1. При прохождении тестов на PostgerSQL в параметре spring.datasource.url необходимо написать jdbc:postgresql: и порт 5432.
 
 ## Запуск тестируемого приложения MySQL
 java -Dspring.datasource.url=jdbc:mysql://localhost:3306/app -jar aqa-shop.jar 
