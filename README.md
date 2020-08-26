@@ -1,5 +1,8 @@
 # Дипломный проект профессии «Тестировщик ПО»
 
+## Документация проекта
+
+* [План автоматизации тестирования](https://github.com/Oleg2394/DiplomQa/blob/master/src/main/java/ru/netolody/docs/Plan.md)
 
 ## Настройка запуска авто-тестов
 
@@ -46,6 +49,3 @@ java -Dspring.datasource.url=jdbc:mysql://localhost:5432/app -jar aqa-shop.jar
 Необходимо сначала выполнить команду gradlew allureReport, для подготовки Allure. Затем запустить автотесты командой gradlew clean build allureReport. 
 Для просмотра отчета Allure необходимо выполнить команду gradlew allureServe и дождаться открытия отчета в браузере.
 
-## Документация проекта
-
-* [План автоматизации тестирования](https://github.com/Oleg2394/DiplomQa/blob/master/src/main/java/ru/netolody/docs/Plan.md)
