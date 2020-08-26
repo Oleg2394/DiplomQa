@@ -48,6 +48,7 @@ java -Dspring.datasource.url=jdbc:mysql://localhost:5432/app -jar aqa-shop.jar
 Выполнение авто-тестов запускается файлом gradlew.bat clean build (в Windows) или gradlew clean build (в Linux)
 
 ## Для получения отчета Allure 
-Необходимо сначала выполнить команду gradlew allureReport, для подготовки Allure. Затем запустить автотесты командой gradlew clean build allureReport. 
-Для просмотра отчета Allure необходимо выполнить команду gradlew allureServe и дождаться открытия отчета в браузере.
+1. Выполнить команду gradlew allureReport
+1. Запустить автотесты gradlew clean build allureReport 
+1. Для просмотра отчета Allure необходимо выполнить команду gradlew allureServe и дождаться открытия отчета в браузере.
 
