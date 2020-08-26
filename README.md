@@ -4,6 +4,8 @@
 
 * [План автоматизации тестирования](https://github.com/Oleg2394/DiplomQa/blob/master/src/main/java/ru/netolody/docs/Plan.md)
 
+* [Отчет о тестировании веб-сервиса](https://github.com/Oleg2394/DiplomQa/blob/master/src/main/java/ru/netolody/docs/Report.md)
+
 ## Настройка запуска авто-тестов
 
 До запуска автотестов необходимо перейти в папку с установлеными тестами и выполнить следующие шаги:
