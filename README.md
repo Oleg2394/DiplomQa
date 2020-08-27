@@ -1,3 +1,4 @@
+
 # Дипломный проект профессии «Тестировщик ПО»
 
 [![Build status](https://ci.appveyor.com/api/projects/status/nqlwvg7ggw12wqqf?svg=true)](https://ci.appveyor.com/project/Oleg2394/diplomqa)
