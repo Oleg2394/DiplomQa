@@ -6,7 +6,7 @@
 
 Выполнено 19 автотестов, из них 6 (31.57%) выполнены успешно, 13 (68,43%) не успешно:
 
-[Скриншот](https://ibb.co/7JJBVRx)
+[Скриншот](https://github.com/Oleg2394/DiplomQa/blob/master/Screenshots/Report1.PNG?raw=true)
 
 В результате тестирования выявлены следующие дефекты:
 1. [Орфографическая ошибка в слове Марракеш](https://github.com/Oleg2394/DiplomQa/issues/1)
@@ -24,7 +24,7 @@
 1. [Некорректное сообщение для пустого поля (Номер карты, год, месяц, CVC/CVV) bug](https://github.com/Oleg2394/DiplomQa/issues/13)
 1. [В БД не создается credit_id в order_entity при попытке взять в кредит](https://github.com/Oleg2394/DiplomQa/issues/14)
 
-[Скриншот](https://ibb.co/WgYcd3d)
+[Скриншот](https://github.com/Oleg2394/DiplomQa/blob/master/Screenshots/Report2.PNG?raw=true)
 
 ## Основные моменты где были выявлены дефекты:
 
