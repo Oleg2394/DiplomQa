@@ -7,6 +7,7 @@
 * [План автоматизации тестирования](https://github.com/Oleg2394/DiplomQa/blob/master/src/main/java/ru/netolody/docs/Plan.md)
 
 * [Отчет о тестировании веб-сервиса](https://github.com/Oleg2394/DiplomQa/blob/master/src/main/java/ru/netolody/docs/Report.md)
+* [Отчёт о проведённой автоматизации тестирования комплексного веб-сервиса, взаимодействующего с СУБД и API Банка](https://github.com/Oleg2394/DiplomQa/blob/master/src/main/java/ru/netolody/docs/Summary.md)
 
 ## Настройка запуска авто-тестов
 
